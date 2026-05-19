@@ -1,6 +1,7 @@
 unpacked/
 verify_unpacked/
 qa/
+*_unpacked/
 *.tmp
 .DS_Store
 Thumbs.db
