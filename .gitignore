@@ -1,0 +1,6 @@
+unpacked/
+verify_unpacked/
+qa/
+*.tmp
+.DS_Store
+Thumbs.db
